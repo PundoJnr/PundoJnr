@@ -1,4 +1,4 @@
-## ArthurPundo @PundoJnr
+## Arthur Pundo @PundoJnr
 
 
 [![Status](https://img.shields.io/badge/status-employed%20-brightgreen.svg)](https://github.com/PundoJnr)
