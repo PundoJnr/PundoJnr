@@ -18,7 +18,7 @@
 ### 💼 Career
 - Mobile Apps Developer at Rivercross Tracking  ~ March 2020 to present 
 - Android Apps Developer at Kenya National Theatre - April 2020 to Nov 2020
-- Android Mobile Developer at Subletor Ltd ~ April 2018 to presenter
+- Android Mobile Developer at Subletor Ltd ~ April 2018 to present
 - Junior Android Developer at Nyeri County Government - July 2017 to Nov 2017
 
 
