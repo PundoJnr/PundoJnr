@@ -10,10 +10,10 @@
 
 ### 💻 Languages
 - Java 
-- Typescript 
 - Javascript
 - PHP
 - Dart
+- Swift
 
 [![PundoJnr's github stats](https://github-readme-stats.vercel.app/api?username=pundojnr)](https://github.com/PundoJnr)
 
